@@ -1,0 +1,11 @@
+inventory_id,store_id,product_id,quantity_on_hand,rejection_reason
+5,1,1005,282,Invalid inventory product reference
+7,1,1007,496,Invalid inventory product reference
+19,2,1005,487,Invalid inventory product reference
+21,2,1007,145,Invalid inventory product reference
+33,3,1005,249,Invalid inventory product reference
+35,3,1007,274,Invalid inventory product reference
+47,4,1005,294,Invalid inventory product reference
+49,4,1007,466,Invalid inventory product reference
+61,5,1005,223,Invalid inventory product reference
+63,5,1007,151,Invalid inventory product reference

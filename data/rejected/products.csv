@@ -1,0 +1,3 @@
+product_id,product_name,category,unit_price,supplier_id,rejection_reason
+1005,Refined Oil 1L,Cooking Oil,-100.0,4,Invalid product price: -100.0
+1007,Turmeric Powder 100g,Spices,0.0,4,Invalid product price: 0.0

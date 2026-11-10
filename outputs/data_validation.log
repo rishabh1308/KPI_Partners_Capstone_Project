@@ -1,0 +1,394 @@
+2026-11-09 11:58:16,364 - ERROR - Invalid product price: Product ID 1005, Price -100.0
+2026-11-09 11:58:16,364 - ERROR - Invalid product price: Product ID 1007, Price 0.0
+2026-11-09 12:01:43,713 - ERROR - Invalid product price: Product ID 1005, Price -100.0
+2026-11-09 12:01:43,714 - ERROR - Invalid product price: Product ID 1007, Price 0.0
+2026-11-09 12:05:21,765 - ERROR - Invalid product price: Product ID 1005, Price -100.0
+2026-11-09 12:05:21,765 - ERROR - Invalid product price: Product ID 1007, Price 0.0
+2026-11-09 12:07:08,152 - ERROR - Invalid product price: Product ID 1005, Price -100.0
+2026-11-09 12:07:08,152 - ERROR - Invalid product price: Product ID 1007, Price 0.0
+2026-11-09 12:10:30,167 - ERROR - Invalid product price: Product ID 1005, Price -100.0
+2026-11-09 12:10:30,167 - ERROR - Invalid product price: Product ID 1007, Price 0.0
+2026-11-09 12:32:01,838 - ERROR - Invalid product price: Product ID 1005, Price -100.0
+2026-11-09 12:32:01,838 - ERROR - Invalid product price: Product ID 1007, Price 0.0
+2026-11-09 12:34:11,018 - WARNING - Missing manager for store 4
+2026-11-09 12:34:11,019 - ERROR - Invalid product price: -100.0
+2026-11-09 12:34:11,019 - ERROR - Invalid product price: 0.0
+2026-11-09 12:34:11,022 - WARNING - Ambiguous duplicate sales group: ['50098', '51462']
+2026-11-09 12:34:11,022 - WARNING - Ambiguous duplicate sales group: ['50232', '51518']
+2026-11-09 12:34:11,022 - WARNING - Ambiguous duplicate sales group: ['50376', '51107']
+2026-11-09 12:34:11,022 - WARNING - Ambiguous duplicate sales group: ['50457', '51411']
+2026-11-09 12:34:11,022 - WARNING - Ambiguous duplicate sales group: ['51231', '51664']
+2026-11-09 12:34:11,022 - WARNING - Ambiguous duplicate sales group: ['51335', '51752']
+2026-11-09 12:34:11,022 - WARNING - Ambiguous duplicate sales group: ['51407', '51887']
+2026-11-09 12:34:11,025 - ERROR - Invalid product reference
+2026-11-09 12:34:11,025 - ERROR - Invalid product reference
+2026-11-09 12:34:11,025 - ERROR - Invalid product reference
+2026-11-09 12:34:11,025 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,026 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,027 - ERROR - Intentional duplicate generated by sample script
+2026-11-09 12:34:11,027 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,028 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,029 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Intentional duplicate generated by sample script
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,030 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,031 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Intentional duplicate generated by sample script
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,032 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,033 - ERROR - Invalid product reference
+2026-11-09 12:34:11,034 - ERROR - Invalid product reference
+2026-11-09 12:34:11,034 - ERROR - Invalid product reference
+2026-11-09 12:34:11,034 - ERROR - Invalid product reference
+2026-11-09 12:34:11,034 - ERROR - Invalid product reference
+2026-11-09 12:34:11,034 - ERROR - Invalid product reference
+2026-11-09 12:34:11,034 - ERROR - Invalid product reference
+2026-11-09 12:34:11,034 - ERROR - Intentional duplicate generated by sample script
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,036 - ERROR - Invalid inventory product reference
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70001
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70003
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70004
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70032
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70035
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70040
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70066
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70067
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70069
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70071
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70073
+2026-11-09 12:34:11,037 - WARNING - Pending purchase order: 70074
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70085
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70086
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70096
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70105
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70109
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70114
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70117
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70122
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70124
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70125
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70130
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70137
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70144
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70147
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70160
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70164
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70167
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70168
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70169
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70173
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70178
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70188
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70190
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70191
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70194
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70197
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70205
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70211
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70223
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70228
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70230
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70232
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70235
+2026-11-09 12:34:11,038 - WARNING - Pending purchase order: 70240
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70244
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70252
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70263
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70265
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70268
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70275
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70285
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70287
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70296
+2026-11-09 12:34:11,039 - WARNING - Pending purchase order: 70300
+2026-11-09 12:34:11,039 - INFO - MegaMart validation pipeline completed
